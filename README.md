@@ -7,6 +7,16 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+#### Usage 
+* download first
+* need to load packages  through "npm run install"
+* create a database with name class_routine
+* create migrations by terminal "php artisan migrate" 
+* then type into terminal "php artisan db:seed" //this will create admin user with admin seeder
+* admin login details
+email: admin@gmail.com
+pass: 111111
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
